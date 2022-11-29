@@ -13,7 +13,7 @@ N/A
 
 ##Usage
 
-Access the webpage by copying the following link into your browser: http://127.0.0.1:5500/01-Class-Content/01-HTML-Git-CSS/02-Challenge/Develop/index.html 
+Access the webpage by copying the following link into your browser: file:///Users/mariarodriguez/projects/Coursework/NU-VIRT-FSF-PT-11-2022-U-LOLC/01-Class-Content/01-HTML-Git-CSS/02-Challenge/Develop/index.html 
 Open Developer Tools in your browser by entering Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux).  The console panel should open either below or to the side of the webpage in the browser. To check if the image has an alt text on the webpage, look for the HTML tag "alt=". The alt text description will follow the "alt=" tag. Clicking on the links in the navigation bar will take you to that section of the webpage.
 
 ##Credits
